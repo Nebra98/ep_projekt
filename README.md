@@ -22,8 +22,10 @@
 8. Pokrenuti komandu: php artisan key:generate 
 
 9. Pokrenuti komandu: php artisan storage:link
+
+10. Pokrenuti komandu: php artisan migrate
  
-10. Pokrenuti lokalni server
+11. Pokrenuti lokalni server: php artisan serve
 
 Podaci za logiranje kao admin user su:
 - email: admin@admin.com
